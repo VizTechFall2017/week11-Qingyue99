@@ -1,0 +1,17 @@
+.svgBox{
+    width:90vw;
+    height:500px;
+    margin:50px;
+    align-content: center;
+
+}
+
+h1{
+    font: small-caps 300 2em/1.5em 'Open Sans',
+    sans-serif; text-align: center;margin: 20px auto 0;padding: 0;
+}
+
+.graph-svg-component {
+    background-color: rgba(234,246,246,0.8);
+}
+
